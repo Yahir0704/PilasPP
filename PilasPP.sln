@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PilasPP", "PilasPP\PilasPP.pyproj", "{260CBAE8-A3AD-464C-B58E-AC759907D78C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{260CBAE8-A3AD-464C-B58E-AC759907D78C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260CBAE8-A3AD-464C-B58E-AC759907D78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3142D7F-E59C-4CAE-9FA0-EB3F945C0844}
+	EndGlobalSection
+EndGlobal
